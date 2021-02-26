@@ -42,7 +42,7 @@
 
 Este es el segundo projecto del curso Responsive Web Developer propuesto por devchallenges.io
 
-- Puedes acceder al sitio web haciendo [click aqui](https://my-team-page-devchallenges.netlify.app/). Utiliza `ctrl + click` para abrir el enlace en una nueva pestaña
+- Puedes acceder al sitio web haciendo [click aqui](https://devchallenges-project-2.netlify.app/). Utiliza `ctrl + click` para abrir el enlace en una nueva pestaña
 - Aprendi a poner un texto en vertical con la propiedad de CSS writting-mode
 - Utilice flex-box y medias queries
 
