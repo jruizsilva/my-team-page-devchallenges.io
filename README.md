@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{My team page}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges-project-2.netlify.app/">
       Solution
     </a>
     <span> | </span>
@@ -36,40 +32,41 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+### Screenshot del sitio web
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+![screenshot](https://awesomescreenshot.s3.amazonaws.com/image/1849999/6326789-a55aa8f47d3e80c2c025c3dc53176247.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20210226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210226T184014Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=9cc8ea7c031b78acf29b124d941ee1f821b422aa1ac35a4623719fadddc56a98)
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+### Responsive Web Developer
+
+#### My team page Project #2
+
+Este es el segundo projecto del curso Responsive Web Developer propuesto por devchallenges.io
+
+- Puedes acceder al sitio web haciendo [click aqui](https://my-team-page-devchallenges.netlify.app/). Utiliza `ctrl + click` para abrir el enlace en una nueva pestaña
+- Aprendi a poner un texto en vertical con la propiedad de CSS writting-mode
+- Utilice flex-box y medias queries
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- HTML
+- CSS
 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
-
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/paths/responsive-web-developer) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [jruizsilva.netlify.app](https://jruizsilva.netlify.app)
+- GitHub [@jruizsilva](https://github.com/jruizsilva)
+- Twitter [@jruizsilva](https://twitter.com/jruizsilva)
