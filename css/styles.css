@@ -1,0 +1,206 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=PT+Serif:wght@400;700&family=Poppins:wght@400;600&display=swap");
+
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: "Poppins", sans-serif;
+	margin: 0;
+}
+img {
+	max-width: 100%;
+}
+.wrap-header {
+	margin: 71px 2% 62px 2%;
+}
+.header-title {
+	font-family: "PT Serif", serif;
+	font-weight: 700;
+	font-size: 36px;
+	margin: 0;
+	margin-bottom: 38px;
+}
+.wrap {
+	margin-left: 2%;
+	margin-right: 2%;
+}
+@media screen and (min-width: 350px) {
+	.wrap {
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+}
+@media screen and (min-width: 400px) {
+	.wrap {
+		margin-right: auto;
+		margin-left: auto;
+		max-width: 350px;
+	}
+}
+@media screen and (min-width: 768px) {
+	.wrap {
+		max-width: 520px;
+	}
+}
+@media screen and (min-width: 1024px) {
+	.wrap {
+		max-width: 850px;
+	}
+}
+.header-subtitle,
+.header-description {
+	margin: 0;
+	font-weight: 400;
+}
+.header-subtitle {
+	font-weight: 600;
+	text-transform: uppercase;
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+.header-description {
+	font-size: 14px;
+	max-width: 333px;
+}
+@media screen and (min-width: 1024px) {
+	.header-description {
+		font-size: 18px;
+	}
+}
+@media screen and (min-width: 1024px) {
+	.wrap-header {
+		display: flex;
+		justify-content: space-between;
+		min-height: 100px;
+		margin-top: 110px;
+		margin-bottom: 96px;
+	}
+	.header-title,
+	.header-description {
+		margin: 0;
+	}
+}
+.team__ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	max-height: 1000px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.team__item {
+	height: 237px;
+	width: 148px;
+	margin-bottom: 64px;
+	position: relative;
+}
+@media screen and (min-width: 1024px) {
+	.team__item {
+		height: 383px;
+		width: 264px;
+	}
+}
+.team__item:nth-child(even) {
+	margin-top: 48px;
+	margin-bottom: 0;
+}
+@media screen and (min-width: 768px) {
+	.team__item:nth-child(even),
+	.team__item {
+		margin: 0;
+	}
+	.team__ul .team__item {
+		margin-bottom: 64px;
+	}
+	.team__ul .team__item:nth-child(2),
+	.team__ul .team__item:nth-child(5) {
+		margin-bottom: -100px;
+	}
+	.team__ul .team__item:nth-child(5) {
+		margin-bottom: -100px;
+	}
+}
+.bg-photo-1,
+.bg-photo-2,
+.bg-photo-3,
+.bg-photo-4,
+.bg-photo-5,
+.bg-photo-6 {
+	height: 210px;
+	width: 130px;
+	background-size: cover;
+}
+@media screen and (min-width: 1024px) {
+	.bg-photo-1,
+	.bg-photo-2,
+	.bg-photo-3,
+	.bg-photo-4,
+	.bg-photo-5,
+	.bg-photo-6 {
+		height: 341px;
+		width: 238px;
+	}
+}
+.bg-photo-1 {
+	background-image: url(../img/photo1.png);
+}
+.bg-photo-2 {
+	background-image: url(../img/photo2.png);
+}
+.bg-photo-3 {
+	background-image: url(../img/photo3.png);
+}
+.bg-photo-4 {
+	background-image: url(../img/photo4.png);
+}
+.bg-photo-5 {
+	background-image: url(../img/photo5.png);
+}
+.bg-photo-6 {
+	background-image: url(../img/photo6.png);
+}
+.team__name,
+.team__rol {
+	margin: 0;
+}
+.team__name {
+	margin-top: 10px;
+	font-size: 14px;
+}
+
+.team__rol {
+	position: absolute;
+	top: 0;
+	right: 0;
+	font-family: "PT Serif";
+	font-size: 10px;
+	font-weight: 400;
+	text-transform: uppercase;
+	writing-mode: vertical-lr;
+}
+@media screen and (min-width: 1024px) {
+	.team__rol {
+		font-size: 12px;
+	}
+	.team__name {
+		font-size: 18px;
+	}
+}
+.footer {
+	color: #a9a9a9;
+	text-align: center;
+	font-family: "Montserrat";
+	padding-bottom: 24px;
+	font-weight: 600;
+	font-size: 14px;
+	margin-top: 100px;
+}
+.footer__author {
+	text-decoration: underline;
+	font-weight: 700;
+}
+.footer__page {
+	font-weight: 500;
+}
