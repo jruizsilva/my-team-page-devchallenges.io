@@ -69,4 +69,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [jruizsilva.netlify.app](https://jruizsilva.netlify.app)
 - GitHub [@jruizsilva](https://github.com/jruizsilva)
-- Twitter [@jruizsilva](https://twitter.com/jnt077)
+- Twitter [@jnt077](https://twitter.com/jnt077)
